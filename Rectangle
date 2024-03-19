@@ -8,8 +8,8 @@ Paradigmas da orientação a objetos
 //Em seguida, mostrar na tela o valor de sua área, perímetro e diagonal. 
 //Usar uma classe como mostrado no projeto ao lado.
 
-package exercicio1;
-public class Aula12 {
+package entities;
+public class Rectangle {
     public static void main(String[] args) {
        
       Scanner scanner = new Scanner(System.in);
